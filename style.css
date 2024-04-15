@@ -32,6 +32,12 @@ section {
 .flag-container.georgia {
   background-image: url("./images/georgia.png");
 }
+.flag-container.spain {
+  background-image: url("./images/spain.jpg");
+}
+.flag-container.germany {
+  background-image: url("./images/germany.png");
+}
 
 .button-link {
   transition: 0.5s;
