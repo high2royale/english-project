@@ -30,7 +30,7 @@ section {
 }
 
 .flag-container.georgia {
-  background-image: url("/images/georgia.png");
+  background-image: url("./images/georgia.png");
 }
 
 .button-link {
